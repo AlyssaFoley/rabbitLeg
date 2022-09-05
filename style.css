@@ -1,0 +1,100 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Qwitcher Grypen', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Nanum Gothic', sans-serif;*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 200;
+    
+
+}
+.main  {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/puppies/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    height: 730px; 
+}
+
+
+.nav-link{
+    color: black;
+    text-transform: uppercase;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: brown;
+}
+
+.bold{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    margin-top: 70px;
+    padding-left: 130px;
+    padding-right: 130px;
+    font-weight: 800;
+}
+
+.text{font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 85px;
+
+}
+/*.container-fluid{
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 85px;
+}*/
+
+.col-sm{
+    font-family: 'Nanum Gothic', sans-serif;
+    text-transform: uppercase;
+    font-size: small
+
+}
+
+.txt{
+    margin-top: 40px;
+}
+
+.img-fluid{
+    margin-top: 150px;
+   
+}
+
+.txt_yr{
+    position: absolute;
+    top: 1400px;
+    left: 65%;
+    font-size: larger;
+    color: aliceblue;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+}
+
+.art_pic{
+    
+}
+
